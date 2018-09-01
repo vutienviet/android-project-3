@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Đăng nhập</string>
+    <string name="sign_up">Đăng Ký</string>
+    <string name="log_in">Đăng Nhập</string>
+    <string name="Email">Email</string>
+    <string name="password">Mật Khẩu</string>
+    <string name="forgot_pass">Quên Mật Khẩu</string>
+</resources>
